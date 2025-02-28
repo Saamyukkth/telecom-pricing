@@ -21,25 +21,30 @@ To set up the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/telecom_dynamic_pricing.git
    cd telecom_dynamic_pricing
+   ```
 
 2.Create a virtual environment (optional but recommended):
 
    ```bash
    python -m venv venv
+   ```
    
 3.Activate the virtual environment:
 
    On Windows:
    ```bash
    .\venv\Scripts\activate
+   ```
 
    On macOS/Linux:
    ```bash
    source venv/bin/activate
+   ```
    
 4.Install the required packages:
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 5.Usage
 To run the data preprocessing scripts and train the models, use the following commands:
@@ -76,5 +81,4 @@ telecom_dynamic_pricing/
 ├── requirements.txt
 └── README.md
 
-Contributing
-Contributions to the project are welcome! Please feel free to submit a pull request or open an issue if you have suggestions, improvements, or bug fixes.
+
