@@ -24,13 +24,17 @@ To set up the project, follow these steps:
 
 2.Create a virtual environment (optional but recommended):
 
+   ```bash
    python -m venv venv
    
 3.Activate the virtual environment:
 
    On Windows:
+   ```bash
    .\venv\Scripts\activate
+
    On macOS/Linux:
+   ```bash
    source venv/bin/activate
    
 4.Install the required packages:
