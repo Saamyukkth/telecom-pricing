@@ -1,5 +1,3 @@
-# Telecom-Pricing
-
 # Telecom Dynamic Pricing
 
 ## Overview
